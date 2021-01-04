@@ -1,6 +1,5 @@
-let magic_click = document.querySelector(".magic_click");
 
-magic_click.addEventListener("click", magicalpics);
+
 
 function magicalpics(){
 
@@ -22,3 +21,6 @@ function magicalpics(){
     })
 
 }
+let magic_click = document.querySelector(".magic_click");
+magic_click.addEventListener("click", magicalpics);
+
